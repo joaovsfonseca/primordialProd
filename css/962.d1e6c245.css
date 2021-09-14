@@ -1,1 +1,0 @@
-body{overflow:hidden}.margin-lay{padding:20px 10px}.route-enter-from{opacity:0;transform:translateY(100px)}.route-enter-active{transition:all .3s ease-out}.route-leave-to{opacity:0;transform:translateY(-100px)}.route-leave-active{transition:all .3 ease-in}.margin-menu{top:-25%}@media (min-width:600px){.margin-menu{top:20%}.margin-lay{padding:20px 40px}}
